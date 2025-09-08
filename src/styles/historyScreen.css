@@ -1,0 +1,10 @@
+.history-container {
+    background-color: #ac0808; /* Un color de fondo oscuro, similar al de la calculadora */
+    color: white; /* Un color de texto claro */
+    border-radius: 15px; /* Bordes redondeados */
+    padding: 20px;
+    width: 250px; /* Un ancho fijo para la columna del historial */
+    margin-left: 20px; /* Un poco de espacio entre la calculadora y el historial */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para darle profundidad */
+    overflow-y: auto;
+}

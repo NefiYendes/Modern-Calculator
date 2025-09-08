@@ -1,0 +1,19 @@
+.screen {
+    background-color: #121212;
+    color: #fff;
+    font-size: 3.5em;
+    text-align: right;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    width: 350px;
+    height: 55px;
+    font-family: 'Digital-7', monospace;
+}
+.border{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 310px;
+}
